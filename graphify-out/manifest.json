@@ -1288,5 +1288,10 @@
     "mtime": 1781807103.5872433,
     "ast_hash": "1ba175547fe179b69876fa80aaddbe21",
     "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1781813151.4387991,
+    "ast_hash": "86bc5117ba0ec069b2aa6d6736221858",
+    "semantic_hash": ""
   }
 }

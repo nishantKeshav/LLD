@@ -1,13 +1,18 @@
 # Graph Report - LLD-NEW  (2026-06-19)
 
 ## Corpus Check
-- 256 files · ~66,313 words
+- 257 files · ~66,316 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 2707 nodes · 3093 edges · 345 communities (255 shown, 90 thin omitted)
+- 2709 nodes · 3094 edges · 353 communities (261 shown, 92 thin omitted)
 - Extraction: 97% EXTRACTED · 3% INFERRED · 0% AMBIGUOUS · INFERRED: 91 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
+
+## Graph Freshness
+- Built from commit: `65f344cb`
+- Run `git rev-parse HEAD` and compare to check if the graph is stale.
+- Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
 - [[_COMMUNITY_Community 0|Community 0]]
@@ -336,6 +341,14 @@
 - [[_COMMUNITY_Community 329|Community 329]]
 - [[_COMMUNITY_Community 330|Community 330]]
 - [[_COMMUNITY_Community 331|Community 331]]
+- [[_COMMUNITY_Community 345|Community 345]]
+- [[_COMMUNITY_Community 346|Community 346]]
+- [[_COMMUNITY_Community 347|Community 347]]
+- [[_COMMUNITY_Community 348|Community 348]]
+- [[_COMMUNITY_Community 349|Community 349]]
+- [[_COMMUNITY_Community 350|Community 350]]
+- [[_COMMUNITY_Community 351|Community 351]]
+- [[_COMMUNITY_Community 352|Community 352]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Observer Design Pattern Practice — Module 7` - 47 edges
@@ -364,19 +377,19 @@
 ## Import Cycles
 - None detected.
 
-## Communities (345 total, 90 thin omitted)
+## Communities (353 total, 92 thin omitted)
 
 ### Community 0 - "Community 0"
 Cohesion: 0.06
-Nodes (18): InMemoryQueuedEventBus, String, DeadLetterEvent, DispatchResult, EventBusMetrics, List, ObserverRegistration, OrderEvent (+10 more)
+Nodes (19): Main, InMemoryQueuedEventBus, DispatchResult, String, DeadLetterEvent, DispatchResult, EventBusMetrics, List (+11 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.08
 Nodes (15): Override, PaymentMode, PaymentRequest, Override, PaymentMode, PaymentRequest, PaymentRequest, String (+7 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.07
-Nodes (19): Override, RefundMode, RefundRequest, Override, RefundMode, RefundRequest, Override, RefundMode (+11 more)
+Cohesion: 0.33
+Nodes (4): Override, RefundMode, RefundRequest, BankTransferRefundStrategy
 
 ### Community 3 - "Community 3"
 Cohesion: 0.06
@@ -487,8 +500,8 @@ Cohesion: 0.06
 Nodes (19): Coffee, Coffee, Override, String, Override, String, Coffee, Override (+11 more)
 
 ### Community 41 - "Community 41"
-Cohesion: 0.09
-Nodes (16): Main, QueuedEventBus, DispatchResult, DeadLetterEvent, DispatchResult, EventBusMetrics, List, ObserverRegistration (+8 more)
+Cohesion: 0.17
+Nodes (10): QueuedEventBus, DeadLetterEvent, DispatchResult, EventBusMetrics, List, ObserverRegistration, OrderEvent, OrderEventObserver (+2 more)
 
 ### Community 42 - "Community 42"
 Cohesion: 0.05
@@ -563,8 +576,8 @@ Cohesion: 0.12
 Nodes (15): 15. Class 8 — `Main`, 16. Required Second Test Case, 17. What Actually Happens Internally, 19. Important Learning: Order Matters, 1. Problem Statement, 22. What This Module Tests, 23. Scoring Rubric, 24. Key Learning (+7 more)
 
 ### Community 61 - "Community 61"
-Cohesion: 0.12
-Nodes (8): Main, String, NotificationSender, Override, String, NotificationMetrics, MetricsNotificationDecorator, NotificationMetrics
+Cohesion: 0.18
+Nodes (5): Main, String, Override, String, NotificationMetrics
 
 ### Community 62 - "Community 62"
 Cohesion: 0.19
@@ -607,8 +620,8 @@ Cohesion: 0.17
 Nodes (11): 12. Runtime Chain Example, 13. Required Test Cases, 1. Problem Introduction, 21. Scoring Rubric, 22. Final Objective, 23. Final Mental Model, 3. Why This Problem Matters, 5. Core Problem Statement (+3 more)
 
 ### Community 72 - "Community 72"
-Cohesion: 0.18
-Nodes (7): Override, String, Override, String, NotificationSender, BasicNotificationSender, NotificationSenderDecorator
+Cohesion: 0.25
+Nodes (5): Override, String, NotificationSender, EmailNotificationSender, NotificationSenderDecorator
 
 ### Community 73 - "Community 73"
 Cohesion: 0.26
@@ -623,8 +636,8 @@ Cohesion: 0.31
 Nodes (3): Map, HttpRequest, String
 
 ### Community 77 - "Community 77"
-Cohesion: 0.20
-Nodes (6): Override, String, RefundRequest, String, EmailNotificationSender, RefundRequestValidator
+Cohesion: 0.25
+Nodes (5): Override, String, RefundRequest, String, RefundRequestValidator
 
 ### Community 78 - "Community 78"
 Cohesion: 0.27
@@ -783,8 +796,8 @@ Cohesion: 0.29
 Nodes (5): SmsNotificationObserver, OrderEvent, Override, String, OrderEventObserver
 
 ### Community 121 - "Community 121"
-Cohesion: 0.39
-Nodes (4): HighValueOrderObserver, OrderEvent, Override, String
+Cohesion: 0.33
+Nodes (5): HighValueOrderObserver, OrderEvent, Override, String, EventFilter
 
 ### Community 122 - "Community 122"
 Cohesion: 0.29
@@ -1310,10 +1323,34 @@ Nodes (3): 7. Required Event Object, Example Event, Purpose
 Cohesion: 0.67
 Nodes (3): 4. Key Difference from Module 6, Module 6, Module 7
 
+### Community 345 - "Community 345"
+Cohesion: 0.27
+Nodes (4): List, ObserverDispatchResult, OrderEvent, DispatchResult
+
+### Community 346 - "Community 346"
+Cohesion: 0.33
+Nodes (4): Override, RefundMode, RefundRequest, OriginalSourceRefundStrategy
+
+### Community 347 - "Community 347"
+Cohesion: 0.29
+Nodes (5): Override, RefundMode, RefundRequest, RefundStrategy, ManualAdjustmentRefundStrategy
+
+### Community 349 - "Community 349"
+Cohesion: 0.33
+Nodes (4): Override, RefundMode, RefundRequest, WalletRefundStrategy
+
+### Community 350 - "Community 350"
+Cohesion: 0.40
+Nodes (3): Override, String, BasicNotificationSender
+
+### Community 351 - "Community 351"
+Cohesion: 0.40
+Nodes (3): NotificationSender, NotificationMetrics, MetricsNotificationDecorator
+
 ## Knowledge Gaps
-- **1116 isolated node(s):** `Coffee`, `String`, `String`, `String`, `Coffee` (+1111 more)
+- **1117 isolated node(s):** `Coffee`, `String`, `String`, `String`, `Coffee` (+1112 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **90 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **92 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
@@ -1325,10 +1362,10 @@ _Questions this graph is uniquely positioned to answer:_
 - **Why does `AuthHeaderHttpClientDecorator` connect `Community 92` to `Community 93`?**
   _High betweenness centrality (0.009) - this node is a cross-community bridge._
 - **What connects `Coffee`, `String`, `String` to the rest of the system?**
-  _1116 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _1117 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.06428571428571428 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.059322033898305086 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.0784313725490196 - nodes in this community are weakly interconnected._
-- **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.07317073170731707 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
+  _Cohesion score 0.059800664451827246 - nodes in this community are weakly interconnected._
