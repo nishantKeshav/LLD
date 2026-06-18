@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-1/Decorator-Module-1.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-1/Decorator-Module-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-2/Decorator-Module-2.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-2/Decorator-Module-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-3/Decorator-Module-3.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-3/Decorator-Module-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-4/Decorator-Module-4.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-4/Decorator-Module-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-5/Decorator-Module-5.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-5/Decorator-Module-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-6/Decorator-Module-6.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-6/Decorator-Module-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-7/Decorator-Module-7.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator-Module-7/Decorator-Module-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-1/Factory-Module-1.iml" filepath="$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-1/Factory-Module-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-2/Factory-Module-2.iml" filepath="$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-2/Factory-Module-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-3/Factory-Module-3.iml" filepath="$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-3/Factory-Module-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-1/Observer-Module-1.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-1/Observer-Module-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-2/Observer-Module-2.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-2/Observer-Module-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-3/Observer-Module-3.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-3/Observer-Module-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-4/Observer-Module-4.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-4/Observer-Module-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-5/Observer-Module-5.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-5/Observer-Module-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-6/Observer-Module-6.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-6/Observer-Module-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-7/Observer-Module-7.iml" filepath="$PROJECT_DIR$/Design Patterns/Observer Design Pattern/Observer-Module-7/Observer-Module-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Startegy-Module-3/Startegy-Module-3.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Startegy-Module-3/Startegy-Module-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-5/Strategy-Module-5.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-5/Strategy-Module-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/WIthStrategyDesign.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/WIthStrategyDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/WithStrategyPattern.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/WithStrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/WithStrategyPattern-Payment.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/WithStrategyPattern-Payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-1/WithoutStrategyDesignPattern/WithoutStrategyDesignPattern.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-1/WithoutStrategyDesignPattern/WithoutStrategyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithoutStrategyPattern/WithoutStrategyPattern.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithoutStrategyPattern/WithoutStrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithoutStrategyPattern-Payment/WithoutStrategyPattern-Payment.iml" filepath="$PROJECT_DIR$/Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithoutStrategyPattern-Payment/WithoutStrategyPattern-Payment.iml" />
+    </modules>
+  </component>
+</project>
