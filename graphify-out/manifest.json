@@ -1,0 +1,1292 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1781807103.5485072,
+    "ast_hash": "3fd02173f9728deb7e0884af9b62d703",
+    "semantic_hash": ""
+  },
+  ".claude/settings.local.json": {
+    "mtime": 1781807103.549508,
+    "ast_hash": "14e908b169005dc0e1a2726e68871352",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1781807103.5590973,
+    "ast_hash": "690ea2e6bd4773bf65f85947f1f9f55d",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1781807103.5600984,
+    "ast_hash": "f7995d6e385c0eb18b5eb793d2b555c4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/EmailNotificationStrategy.java": {
+    "mtime": 1781807103.8494995,
+    "ast_hash": "77eec1ee1ffbe9ca800ca8128dc2eab9",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/Main.java": {
+    "mtime": 1781807103.8505,
+    "ast_hash": "45d2c69d9d35de825a5228af2ab56328",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/NotificationService.java": {
+    "mtime": 1781807103.8514998,
+    "ast_hash": "403d4bc5b207979e46c11d68064014d8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/NotificationStrategy.java": {
+    "mtime": 1781807103.8525,
+    "ast_hash": "e6a54e03520d5d873e9263a3112712b2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/NotificationType.java": {
+    "mtime": 1781807103.8530054,
+    "ast_hash": "e40fa93c566aaa201d169401a8697c69",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/SmsNotificationStrategy.java": {
+    "mtime": 1781807103.8530054,
+    "ast_hash": "08deb7085e331db202542afb861b8f76",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/src/WhatsAppNotificationStrategy.java": {
+    "mtime": 1781807103.8540223,
+    "ast_hash": "eee49396de172ce9abaddbe19c771eb7",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithoutStrategyPattern/src/Main.java": {
+    "mtime": 1781808349.7774012,
+    "ast_hash": "e19080450fa2b599106e991d0e7eb5f5",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithoutStrategyPattern/src/NotificationService.java": {
+    "mtime": 1781807103.8570132,
+    "ast_hash": "c17156ee5bd3ad5572f50a151a95cdbf",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/EmailNotificationStrategy.java": {
+    "mtime": 1781807103.8600132,
+    "ast_hash": "77eec1ee1ffbe9ca800ca8128dc2eab9",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/Main.java": {
+    "mtime": 1781807103.8610127,
+    "ast_hash": "d17ebd70037085fb5c1387819143b483",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/NotificationService.java": {
+    "mtime": 1781807103.863159,
+    "ast_hash": "773e48d0e0279fd42a7116cb4649cc29",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/NotificationStrategy.java": {
+    "mtime": 1781807103.8640628,
+    "ast_hash": "e6a54e03520d5d873e9263a3112712b2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/NotificationType.java": {
+    "mtime": 1781807103.8640628,
+    "ast_hash": "b56fb67960f21587d12f4e3751b5a748",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/SmsNotificationStrategy.java": {
+    "mtime": 1781807103.8653913,
+    "ast_hash": "08deb7085e331db202542afb861b8f76",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/src/WhatsAppNotificationStrategy.java": {
+    "mtime": 1781807103.86639,
+    "ast_hash": "eee49396de172ce9abaddbe19c771eb7",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/src/DiscountCalculator.java": {
+    "mtime": 1781808028.3877754,
+    "ast_hash": "96b6e57faf12b4180c5536642b3ca75b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/src/DiscountStrategy.java": {
+    "mtime": 1781808041.1691198,
+    "ast_hash": "21098f7954ef6d1ecb7322258f6484d0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/src/Main.java": {
+    "mtime": 1781808049.8527503,
+    "ast_hash": "b9546e3106ffb8b946280c64cc6eb5d3",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/src/PremiumDiscountStrategy.java": {
+    "mtime": 1781808099.4082952,
+    "ast_hash": "2b99e232c49832def02085a3704cbe6d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/src/RegularDiscountStrategy.java": {
+    "mtime": 1781808148.0845551,
+    "ast_hash": "b2944089e0259ab68651b446daf67e58",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/src/VipDiscountStrategy.java": {
+    "mtime": 1781808229.0469055,
+    "ast_hash": "be86212ef74d8df88ea436d011553075",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WithoutStrategyDesignPattern/src/DiscountCalculator.java": {
+    "mtime": 1781807963.170645,
+    "ast_hash": "e6d578fde8288153f0a82eb938e7d5b7",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WithoutStrategyDesignPattern/src/Main.java": {
+    "mtime": 1781808005.0276976,
+    "ast_hash": "31edee72d07398f7f9bda5539a7014d9",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/CardPaymentStrategy.java": {
+    "mtime": 1781807103.86939,
+    "ast_hash": "dea0ffdee837913f49265f419cff68a7",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/Main.java": {
+    "mtime": 1781807103.8707364,
+    "ast_hash": "222defc5b4c817d08793de65c63f2813",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/NetBankingPaymentStrategy.java": {
+    "mtime": 1781807103.872253,
+    "ast_hash": "2a8f556b8a9762b0499838e226798c23",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/PaymentMode.java": {
+    "mtime": 1781807103.872253,
+    "ast_hash": "01052804d77a5c12dec957229a177453",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/PaymentRequest.java": {
+    "mtime": 1781807103.8738282,
+    "ast_hash": "898b7926413f462aec53e5fedabf639e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/PaymentService.java": {
+    "mtime": 1781807103.8738282,
+    "ast_hash": "af9a3378222d8aa187775f94c1ed76a0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/PaymentStrategy.java": {
+    "mtime": 1781807103.8738282,
+    "ast_hash": "180766d0af4fa52354c99577f54d0602",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/src/UpiPaymentStrategy.java": {
+    "mtime": 1781807103.8749757,
+    "ast_hash": "34ed6e56cba1b0db34873c4f7e8a2195",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithoutStrategyPattern-Payment/src/Main.java": {
+    "mtime": 1781807103.878975,
+    "ast_hash": "ae03fa4b5808d6dc14d78c1d5368f79a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithoutStrategyPattern-Payment/src/PaymentService.java": {
+    "mtime": 1781807103.878975,
+    "ast_hash": "03e45feb0106926fd09e2f9659be727a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/BankTransferRefundStrategy.java": {
+    "mtime": 1781807103.8809683,
+    "ast_hash": "2090628b55fa39510496fd1b57d788c6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/Main.java": {
+    "mtime": 1781807103.882473,
+    "ast_hash": "aeb6a7317545192c956a1defe74f7c09",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/ManualAdjustmentRefundStrategy.java": {
+    "mtime": 1781807103.8837812,
+    "ast_hash": "3e302b54656eac2c1e7c4c741c4a5bfe",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/OriginalSourceRefundStrategy.java": {
+    "mtime": 1781807103.8847938,
+    "ast_hash": "65f55a5b48e4809c61a3eeb0fba068b9",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/RefundMode.java": {
+    "mtime": 1781807103.8847938,
+    "ast_hash": "1a1e0f74d23d9b4f070835cecfa2f418",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/RefundRequest.java": {
+    "mtime": 1781807103.8857944,
+    "ast_hash": "ce60abfc682b2e79639668a5cf54cca6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/RefundRequestValidator.java": {
+    "mtime": 1781807103.8857944,
+    "ast_hash": "f9460faceac1c37c9fd787256e71d246",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/RefundService.java": {
+    "mtime": 1781807103.8867908,
+    "ast_hash": "7f09295533bc8860cac44d6e606f0a3a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/RefundStrategy.java": {
+    "mtime": 1781807103.8877869,
+    "ast_hash": "bec40790cef58e1590674505e8749c61",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/src/WalletRefundStrategy.java": {
+    "mtime": 1781807103.8887928,
+    "ast_hash": "15c3a02be2cab829e1ebc3b70b4c004e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithStrategyPattern/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809286.8878572,
+    "ast_hash": "325b7ca1311647c1e88045f4acae73ab",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-2/WithoutStrategyPattern/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809286.79266,
+    "ast_hash": "68d2d03893c8656430f63abf2bf0ed42",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Startegy-Module-3/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809286.9815516,
+    "ast_hash": "9a5bfe5ad4315f02b49b08f6314fffa4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WIthStrategyDesign/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809286.705292,
+    "ast_hash": "8ad47cb9bbcd07d7fe3b96ef2b5f25aa",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-1/WithoutStrategyDesignPattern/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809286.615673,
+    "ast_hash": "d9db5af9c462af194f5d0e827302836b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithStrategyPattern-Payment/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809287.1718178,
+    "ast_hash": "b6afbce3b99a92ad4b1809c0908f4cb5",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-4/WithoutStrategyPattern-Payment/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809287.071936,
+    "ast_hash": "ff113502390a510165f62e9130bb5680",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Strategy Design Pattern/Strategy-Module-5/PROBLEM_STATEMENT.md": {
+    "mtime": 1781809287.270949,
+    "ast_hash": "c1dba2cfd27352b1f4598818d09441db",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/CaramelDecorator.java": {
+    "mtime": 1781807103.590242,
+    "ast_hash": "4c6d78ad9d3da5f04003535f64f33297",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/Coffee.java": {
+    "mtime": 1781807103.5912428,
+    "ast_hash": "dc75be98f88d5c2485a5510e5917161e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/CoffeeDecorator.java": {
+    "mtime": 1781807103.5912428,
+    "ast_hash": "369628d578205f4620f4d115c2e9416b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/Main.java": {
+    "mtime": 1781807103.5922437,
+    "ast_hash": "e02c0dd0ab36ad6fff57b14c3f5f8ef2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/MilkDecorator.java": {
+    "mtime": 1781807103.592768,
+    "ast_hash": "f8dc41d0247f21f1fbe9a15eea9cdda0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/SimpleCoffee.java": {
+    "mtime": 1781807103.5937934,
+    "ast_hash": "13a77f9645c95fe8a09d42709ff71b36",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/src/SugarDecorator.java": {
+    "mtime": 1781807103.5947862,
+    "ast_hash": "3029427db0fb30702a679a4cbd745217",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/CheeseDecorator.java": {
+    "mtime": 1781807103.5977826,
+    "ast_hash": "8edf3c3afd4a820ef83f4d4cd1f4b224",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/ExtraPaneerDecorator.java": {
+    "mtime": 1781807103.5987887,
+    "ast_hash": "5acd5136e7a83cafeecbbc8942e4e937",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/FarmhousePizza.java": {
+    "mtime": 1781807103.599774,
+    "ast_hash": "6ed8bb774259fc0d4e170d8de2cefe8b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/Main.java": {
+    "mtime": 1781807103.599774,
+    "ast_hash": "8d9f40139813feb1ff22c1f69d71da29",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/MargheritaPizza.java": {
+    "mtime": 1781807103.600774,
+    "ast_hash": "06b0d3a777372fb33c18230420ce04c2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/MushroomDecorator.java": {
+    "mtime": 1781807103.600774,
+    "ast_hash": "92764cbbe9dc35dcbde613fe5f1394aa",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/OlivesDecorator.java": {
+    "mtime": 1781807103.6022809,
+    "ast_hash": "b5a212b3b1b2c6580a2c45cf4e513adf",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/Pizza.java": {
+    "mtime": 1781807103.6028023,
+    "ast_hash": "2124a55851ee1e4ebb56daa590b3fe1f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/src/PizzaDecorator.java": {
+    "mtime": 1781807103.6038105,
+    "ast_hash": "fde766bff90fd885e7b74ef875a016c3",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/BasicNotificationSender.java": {
+    "mtime": 1781807103.6068096,
+    "ast_hash": "e1bd9f1ec7d479aa50b97dc5648b6aa0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/EncryptionNotificationDecorator.java": {
+    "mtime": 1781807103.6078093,
+    "ast_hash": "a9999f92f9cccceaf8252a0d41ea96f3",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/LoggingNotificationDecorator.java": {
+    "mtime": 1781807103.6088085,
+    "ast_hash": "73498fc0b399518fd6396ca47be4da87",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/Main.java": {
+    "mtime": 1781807103.6098094,
+    "ast_hash": "43d6bfb1ba4798715343bb0f8535c8c9",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/MetricsNotificationDecorator.java": {
+    "mtime": 1781807103.6108205,
+    "ast_hash": "679e127384ba3b2fbc540a4cbf9f703a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/NotificationMetrics.java": {
+    "mtime": 1781807103.6108205,
+    "ast_hash": "6fdaba2f2e2338e563abb641a80b3f16",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/NotificationSender.java": {
+    "mtime": 1781807103.6123273,
+    "ast_hash": "118efdfd141544be4fd0cb92e041bd7a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/NotificationSenderDecorator.java": {
+    "mtime": 1781807103.6128466,
+    "ast_hash": "6e295808bbb18d83fa25bf7969f31424",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/src/TimestampNotificationDecorator.java": {
+    "mtime": 1781807103.6134012,
+    "ast_hash": "de3bb582fe6b45ed3d2fd2e7e37a7cea",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/BasicTextReader.java": {
+    "mtime": 1781807103.6175892,
+    "ast_hash": "a4f3e8b35187de7cdd01c917ff56c505",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/LowerCaseTextReaderDecorator.java": {
+    "mtime": 1781807103.6175892,
+    "ast_hash": "0b70a3793307e2d43b13fb4ff987dec8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/Main.java": {
+    "mtime": 1781807103.6185887,
+    "ast_hash": "9a974c85aa0725ea370a7bdaf6060cf8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/RemoveExtraSpacesTextReaderDecorator.java": {
+    "mtime": 1781807103.6185887,
+    "ast_hash": "daba3a5068e672d7143cfa88a0f9d7b6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/SensitiveWordMaskingDecorator.java": {
+    "mtime": 1781807103.6195889,
+    "ast_hash": "ff745f6e60d0686d563a3396821685ea",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/TextReader.java": {
+    "mtime": 1781807103.6195889,
+    "ast_hash": "16b90183c8948531dc8d8fc2506e0333",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/TextReaderDecorator.java": {
+    "mtime": 1781807103.6205935,
+    "ast_hash": "207b7d963123d89952766569104d11c1",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/src/TrimTextReaderDecorator.java": {
+    "mtime": 1781807103.6205935,
+    "ast_hash": "e84003afefd909eb4f264dc3cae554e5",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/AuditLogPaymentDecorator.java": {
+    "mtime": 1781807103.566133,
+    "ast_hash": "90b3ff4b630d27c088474e1e0adb2640",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/BasicPaymentProcessor.java": {
+    "mtime": 1781807103.5671215,
+    "ast_hash": "9a0d2bca8c25e88558fb26d8de3bf36b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/FraudCheckPaymentDecorator.java": {
+    "mtime": 1781807103.5691216,
+    "ast_hash": "1f5b091902aed6cefa69dca8bd8024ac",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/Main.java": {
+    "mtime": 1781807103.570122,
+    "ast_hash": "db1b2766af8af3bd497e37472b8987ae",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/MetricsPaymentDecorator.java": {
+    "mtime": 1781807103.570122,
+    "ast_hash": "35e190c874fd5867cfe68654726c6273",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/PaymentMetrics.java": {
+    "mtime": 1781807103.5711224,
+    "ast_hash": "5fc93dfc45bb4d5edb2c618fe404af35",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/PaymentProcessor.java": {
+    "mtime": 1781807103.5711224,
+    "ast_hash": "32a7b0a3ab6f6715279f740e3676856d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/PaymentProcessorDecorator.java": {
+    "mtime": 1781807103.5726297,
+    "ast_hash": "702f28d482c78534d62669ff712ee67a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/PaymentRequest.java": {
+    "mtime": 1781807103.5731354,
+    "ast_hash": "7e87d79edb142328eb415b46a2bcb84c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/PaymentResponse.java": {
+    "mtime": 1781807103.5736566,
+    "ast_hash": "7377c57959f9cd519e40b3743c60e215",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/RetryPaymentDecorator.java": {
+    "mtime": 1781807103.5741434,
+    "ast_hash": "11e0705772ccce3c3cc6cf88a601ed9c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/UnstablePaymentProcessor.java": {
+    "mtime": 1781807103.575143,
+    "ast_hash": "2c7a600d71d58f78154bb16f37098f0c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/src/ValidationPaymentDecorator.java": {
+    "mtime": 1781807103.5761478,
+    "ast_hash": "c59dcf2c90f6f7320d4513bb5f447073",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/AuthHeaderHttpClientDecorator.java": {
+    "mtime": 1781807103.6231053,
+    "ast_hash": "1f8579ff9a4a5ecfc183f4d82de3d6e0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/BasicHttpClient.java": {
+    "mtime": 1781807103.6245294,
+    "ast_hash": "c8bbf79c2cc01e74319fb90acf92f906",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/HttpClient.java": {
+    "mtime": 1781807103.6255286,
+    "ast_hash": "bb9753380fef8557a9992366c7327a4b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/HttpClientDecorator.java": {
+    "mtime": 1781807103.6255286,
+    "ast_hash": "53c8c8a9ad4bee69849bc537c93bf95a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/HttpClientMetrics.java": {
+    "mtime": 1781807103.626529,
+    "ast_hash": "828a8cde9f98d47ded84507233d87552",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/HttpRequest.java": {
+    "mtime": 1781807103.6281326,
+    "ast_hash": "cbb56293b6ed30605594ff480fa321de",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/HttpResponse.java": {
+    "mtime": 1781807103.6281326,
+    "ast_hash": "04251e90f389e11e13fa34f615e4ec10",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/LoggingHttpClientDecorator.java": {
+    "mtime": 1781807103.629141,
+    "ast_hash": "79727b6b87eb3ed22d97443c1256a89e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/Main.java": {
+    "mtime": 1781807103.63014,
+    "ast_hash": "ffd6067338745a21cb33843c97f27aa2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/MetricsHttpClientDecorator.java": {
+    "mtime": 1781807103.63014,
+    "ast_hash": "eae0f4a6d963bb828eb64fa9f64b2a31",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/RequestIdHttpClientDecorator.java": {
+    "mtime": 1781807103.6311395,
+    "ast_hash": "88f6a193b217dd4a8188edd3664c0428",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/RetryHttpClientDecorator.java": {
+    "mtime": 1781807103.6321397,
+    "ast_hash": "8054c949ec8dfa8f08f6d71911ef5451",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/TimeoutHttpClientDecorator.java": {
+    "mtime": 1781807103.632646,
+    "ast_hash": "db3887b75bc5c33854517e7a1447a793",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/src/UnstableHttpClient.java": {
+    "mtime": 1781807103.6331503,
+    "ast_hash": "6cb8436b75f64df26fa8249faae0c017",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/AuthHeaderHttpClientDecorator.java": {
+    "mtime": 1781807103.6361632,
+    "ast_hash": "1f8579ff9a4a5ecfc183f4d82de3d6e0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/BasicHttpClient.java": {
+    "mtime": 1781807103.6371572,
+    "ast_hash": "c8bbf79c2cc01e74319fb90acf92f906",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/DecoratorChainBuilder.java": {
+    "mtime": 1781807103.6381564,
+    "ast_hash": "26b7c1b40fcd9ffed8a1957897ce8541",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/DecoratorType.java": {
+    "mtime": 1781807103.6381564,
+    "ast_hash": "6d0388949d6f64a7562a6880bd1681bc",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/HttpClient.java": {
+    "mtime": 1781807103.6391566,
+    "ast_hash": "bb9753380fef8557a9992366c7327a4b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/HttpClientConfig.java": {
+    "mtime": 1781807103.640165,
+    "ast_hash": "66ae957264835f0479372f8744b0cf32",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/HttpClientDecorator.java": {
+    "mtime": 1781807103.640165,
+    "ast_hash": "45ad19722cc153dfa1267cbac977ad59",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/HttpClientMetrics.java": {
+    "mtime": 1781807103.6411562,
+    "ast_hash": "828a8cde9f98d47ded84507233d87552",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/HttpRequest.java": {
+    "mtime": 1781807103.6421561,
+    "ast_hash": "20be44bc8dfd8caed342e389e08f5fc4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/HttpResponse.java": {
+    "mtime": 1781807103.6421561,
+    "ast_hash": "04251e90f389e11e13fa34f615e4ec10",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/LoggingHttpClientDecorator.java": {
+    "mtime": 1781807103.6434023,
+    "ast_hash": "79727b6b87eb3ed22d97443c1256a89e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/Main.java": {
+    "mtime": 1781807103.6439657,
+    "ast_hash": "a1c7fd15862e4265e25b1b32a73577e4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/MetricsHttpClientDecorator.java": {
+    "mtime": 1781807103.6439657,
+    "ast_hash": "eae0f4a6d963bb828eb64fa9f64b2a31",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/RequestIdHttpClientDecorator.java": {
+    "mtime": 1781807103.645471,
+    "ast_hash": "88f6a193b217dd4a8188edd3664c0428",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/RetryHttpClientDecorator.java": {
+    "mtime": 1781807103.646477,
+    "ast_hash": "8054c949ec8dfa8f08f6d71911ef5451",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/TimeoutHttpClientDecorator.java": {
+    "mtime": 1781807103.646477,
+    "ast_hash": "db3887b75bc5c33854517e7a1447a793",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/src/UnstableHttpClient.java": {
+    "mtime": 1781807103.6484773,
+    "ast_hash": "6cb8436b75f64df26fa8249faae0c017",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/EmailNotificationSender.java": {
+    "mtime": 1781806532.2036269,
+    "ast_hash": "d659dab2e63e8acd8d93fd644b930a7a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/Main.java": {
+    "mtime": 1781806532.2119162,
+    "ast_hash": "3ebcd0401e73cef98b144b85749c7846",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/NotificationSender.java": {
+    "mtime": 1781806532.2211978,
+    "ast_hash": "f671086529cfeef0c3f53d9f0048d598",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/NotificationSenderFactory.java": {
+    "mtime": 1781806532.2286894,
+    "ast_hash": "00c166b32ed776254bff6215d4694d4f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/NotificationType.java": {
+    "mtime": 1781806532.236364,
+    "ast_hash": "0f6f3d3276a0878831514859c25d642f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/SmsNotificationSender.java": {
+    "mtime": 1781806532.2446816,
+    "ast_hash": "9dff60ae969820129d3cff7ca8785972",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/src/WhatsappNotificationSender.java": {
+    "mtime": 1781806532.2532804,
+    "ast_hash": "0382d8cd808231f1600bd541ec2f619b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/CardPaymentProcessor.java": {
+    "mtime": 1781806532.2808495,
+    "ast_hash": "e441c067404b3890b940dc0f281f0a64",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/Main.java": {
+    "mtime": 1781806532.2886038,
+    "ast_hash": "406cec650a8688429ee568bbb14d4f7d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/NetBankingPaymentProcessor.java": {
+    "mtime": 1781806532.2964342,
+    "ast_hash": "5bf1aeec4a5709ce55b2c299020ec395",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/PaymentMode.java": {
+    "mtime": 1781806532.3044908,
+    "ast_hash": "a441dbb42a1fbb924ef8a4a94c242161",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/PaymentProcessor.java": {
+    "mtime": 1781806532.3126862,
+    "ast_hash": "9ebf219d5ef001cbea1cbad8967db801",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/PaymentProcessorFactory.java": {
+    "mtime": 1781806532.3200388,
+    "ast_hash": "4d3e93c1a9a4a42c978c953e83b71e73",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/PaymentRequest.java": {
+    "mtime": 1781806532.330025,
+    "ast_hash": "48370e1b1b40916f06b317291a5ef447",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/UpiPaymentProcessor.java": {
+    "mtime": 1781806532.3379338,
+    "ast_hash": "4d49f0d3bf621a591776075b9bc59fee",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/src/WalletPaymentProcessor.java": {
+    "mtime": 1781806532.345652,
+    "ast_hash": "b565146e7864f7abaa5e3928f653d743",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/CsvDocumentParser.java": {
+    "mtime": 1781806532.3749847,
+    "ast_hash": "07cf7bf50609ff16f033e7516833a5b6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/DocumentFile.java": {
+    "mtime": 1781806532.382308,
+    "ast_hash": "a4d6334936c1bd44589d1afbf12a0721",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/DocumentParser.java": {
+    "mtime": 1781806532.3906121,
+    "ast_hash": "2786955ecc7d420d47712b386bfbaffb",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/DocumentParserFactory.java": {
+    "mtime": 1781806532.398327,
+    "ast_hash": "633b89161c36eb965fe9cf7ede6d7322",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/DocumentUploadService.java": {
+    "mtime": 1781806532.4053411,
+    "ast_hash": "49b46d74c592236fde232562c5302379",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/FileType.java": {
+    "mtime": 1781806532.4137113,
+    "ast_hash": "f50372ff82ec2f4f4082bb5539fbd761",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/JsonDocumentParser.java": {
+    "mtime": 1781806532.4209888,
+    "ast_hash": "e227162118d089c409174e27a53c4290",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/Main.java": {
+    "mtime": 1781806532.4290264,
+    "ast_hash": "71334587db754d314e60735930af0b2a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/ParseResult.java": {
+    "mtime": 1781806532.4361951,
+    "ast_hash": "aef5c84a8b15fdb22c1f10994dc9c13e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/PdfDocumentParser.java": {
+    "mtime": 1781806532.4449747,
+    "ast_hash": "6aca261f8c5ae4a526a8583f7d95e3cb",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/src/XmlDocumentParser.java": {
+    "mtime": 1781806532.452032,
+    "ast_hash": "d84158d58ee023d4ca2a76fce12b40dc",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-1/src/Main.java": {
+    "mtime": 1781807103.6630225,
+    "ast_hash": "200f8ff82110040dfd1cb5280d943ebe",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-1/src/observable/Channel.java": {
+    "mtime": 1781807103.6640284,
+    "ast_hash": "e7dc94cb1212c682c7c8aedc97fe80bd",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-1/src/observable/YoutubeChannel.java": {
+    "mtime": 1781807103.6650276,
+    "ast_hash": "c58c5631aa6a7fcc04dfe738a3ce63f8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-1/src/observer/Subscriber.java": {
+    "mtime": 1781807103.6660292,
+    "ast_hash": "c3dff629619742da730b08f051fb344e",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-1/src/observer/UserSubscriber.java": {
+    "mtime": 1781807103.6670315,
+    "ast_hash": "5f65c2522b2c62e24bd2b390a05f1727",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/Main.java": {
+    "mtime": 1781807103.675098,
+    "ast_hash": "cdfe6a1f3633121d492e5ded1e41ef62",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/observable/Channel.java": {
+    "mtime": 1781807103.6760597,
+    "ast_hash": "660cf03878bc2199ca63dc4bacfd3bd6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/observable/YoutubeChannel.java": {
+    "mtime": 1781807103.678073,
+    "ast_hash": "3bae6f6cd017e3a2a63575af32f661ee",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/observer/EmailSubscriber.java": {
+    "mtime": 1781807103.6790683,
+    "ast_hash": "d0caea0f2f5d53bd0dd4f82e39463267",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/observer/PushSubscriber.java": {
+    "mtime": 1781807103.680061,
+    "ast_hash": "4d6277f3b63cf762521cbb9b4a5ebf67",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/observer/SmsSubscriber.java": {
+    "mtime": 1781807103.6820743,
+    "ast_hash": "6eddc022df674b9a44bd38ca6d935894",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/src/observer/Subscriber.java": {
+    "mtime": 1781807103.6832483,
+    "ast_hash": "ece5b7fc4f7a112efbc528b886c42d7b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/Main.java": {
+    "mtime": 1781807103.6882553,
+    "ast_hash": "9cdc7a0f8dafd132951db97d7f20aca0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/observable/IphoneProductObservable.java": {
+    "mtime": 1781807103.6902554,
+    "ast_hash": "a591e1c13f4d010ac8066b525a28adb4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/observable/ProductStockObservable.java": {
+    "mtime": 1781807103.691255,
+    "ast_hash": "6b38e9f2fed4dca267de12a8d1c11247",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/observer/EmailNotificationObserver.java": {
+    "mtime": 1781807103.6922557,
+    "ast_hash": "54467b20a3bf4e9f8166607063e0adf8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/observer/PushNotificationObserver.java": {
+    "mtime": 1781807103.692761,
+    "ast_hash": "6c789bf8f15b84fe25a1dd792ba61a3d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/observer/SmsNotificationObserver.java": {
+    "mtime": 1781807103.6937714,
+    "ast_hash": "6396f6d152105cc66ca5c38735f8ccab",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/src/observer/StockObserver.java": {
+    "mtime": 1781807103.6947749,
+    "ast_hash": "52abaf15debd637ec837a5136805dc9f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/Main.java": {
+    "mtime": 1781807103.6987736,
+    "ast_hash": "53c0174c0cffeee71d42975da5c80552",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/event/ProductEvent.java": {
+    "mtime": 1781807103.699768,
+    "ast_hash": "26aaf4e4b83f353d92a6d72d6b930c15",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/event/ProductEventType.java": {
+    "mtime": 1781807103.7007675,
+    "ast_hash": "f7cb7c04254e0823edad1bcb985e45ab",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/observable/Product.java": {
+    "mtime": 1781807103.7007675,
+    "ast_hash": "f380c2ae1d94fa0342755661bc50a8b8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/observable/ProductObservable.java": {
+    "mtime": 1781807103.7027893,
+    "ast_hash": "fe426c8b7164355c883c1096d029b032",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/observer/EmailProductObserver.java": {
+    "mtime": 1781807103.703434,
+    "ast_hash": "1ae7da10e3ea6dea677ce26a067582f2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/observer/ProductObserver.java": {
+    "mtime": 1781807103.7044706,
+    "ast_hash": "020a8f32c8261675fe72f8b13dce1e1a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/observer/PushProductObserver.java": {
+    "mtime": 1781807103.70547,
+    "ast_hash": "66499d3ee2c7d6c996fac33adffb8484",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/src/observer/SmsProductObserver.java": {
+    "mtime": 1781807103.70547,
+    "ast_hash": "d34c72d5911d4145b09ed1b6ebf58ae2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/Main.java": {
+    "mtime": 1781807103.7419827,
+    "ast_hash": "67f65c37f068556db9662dc120727dc6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/event/OrderEvent.java": {
+    "mtime": 1781807103.743642,
+    "ast_hash": "ffed5b4455952ee971deabdd6e73ab00",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/event/OrderEventType.java": {
+    "mtime": 1781807103.743642,
+    "ast_hash": "b8e2f026fa9cbc1e6a7940413e389104",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/event/OrderService.java": {
+    "mtime": 1781807103.7455564,
+    "ast_hash": "783b6e70c6af67bc86ff00053353fa8b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/event/OrderStatus.java": {
+    "mtime": 1781807103.7466154,
+    "ast_hash": "b9a7677dd7b1b3cdeb41c151a5e5c871",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observable/EventDispatcher.java": {
+    "mtime": 1781807103.7476006,
+    "ast_hash": "4add027a2f5adeeee76b8f9cc00ea475",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observable/SimpleEventDispatcher.java": {
+    "mtime": 1781807103.7476006,
+    "ast_hash": "6da1722a68263ae52105017089ace745",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/AuditLogObserver.java": {
+    "mtime": 1781807103.7496083,
+    "ast_hash": "cf3e840aab5844cbf47b3d3b4abfdcc3",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/EmailNotificationObserver.java": {
+    "mtime": 1781807103.7496083,
+    "ast_hash": "516651c9bc311b485c2627a4c0bfca4d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/FailingObserver.java": {
+    "mtime": 1781807103.7506063,
+    "ast_hash": "5242e194bc527f6a8117999d03b15b42",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/InventoryObserver.java": {
+    "mtime": 1781807103.7506063,
+    "ast_hash": "84cc9e93fa13395b9161c0d298204d05",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/InvoiceObserver.java": {
+    "mtime": 1781807103.7521203,
+    "ast_hash": "3f3d585a44be13e3b224a3f2519cac0d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/LoyaltyPointsObserver.java": {
+    "mtime": 1781807103.753126,
+    "ast_hash": "a29a7e9463eceaa42b00cdf38ec32b5f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/OrderEventObserver.java": {
+    "mtime": 1781807103.753126,
+    "ast_hash": "69bd619f7219e5297709f67d73730039",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/RefundObserver.java": {
+    "mtime": 1781807103.7543187,
+    "ast_hash": "c79dcc550edbfc4ce8b37f6f8237fe43",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/src/observer/SmsNotificationObserver.java": {
+    "mtime": 1781807103.7543187,
+    "ast_hash": "f0182c5b93249038719db590ca8c530d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/Main.java": {
+    "mtime": 1781807103.7074695,
+    "ast_hash": "6d7d03ae73844f7c2fb1014c0342c6f8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/event/OrderEvent.java": {
+    "mtime": 1781807103.7094707,
+    "ast_hash": "69a7d9dc2d4f259224ae3ece8328bdec",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/event/OrderEventType.java": {
+    "mtime": 1781807103.7094707,
+    "ast_hash": "25598c08909c32b5c04dfb9166f3130b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/event/OrderStatus.java": {
+    "mtime": 1781807103.7104778,
+    "ast_hash": "40182338911ee284c60de442bd4174b5",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/AdvancedEventDispatcher.java": {
+    "mtime": 1781807103.7104778,
+    "ast_hash": "af2b0efce94e14d0e2ee80709300426a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/DeadLetterEvent.java": {
+    "mtime": 1781807103.7119837,
+    "ast_hash": "b44fe7311cc386b54aca97b322fb8a56",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/DispatchResult.java": {
+    "mtime": 1781807103.7129958,
+    "ast_hash": "12137c233b4b9dcaad1043ca0c0d6112",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/DispatchStatus.java": {
+    "mtime": 1781807103.713531,
+    "ast_hash": "1141455d7a58d2f53341fb718d15e09d",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/EventFilter.java": {
+    "mtime": 1781807103.7140298,
+    "ast_hash": "0bf083cb9bb6b2c0e55de8eaca5d151b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/ObserverDispatchResult.java": {
+    "mtime": 1781807103.7150228,
+    "ast_hash": "06c0acd6ae64b078372e875a60304622",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/ObserverRegistration.java": {
+    "mtime": 1781807103.7150228,
+    "ast_hash": "a427fc52e3bebe1ae6efeacc9570da0a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observable/PriorityRetryEventDispatcher.java": {
+    "mtime": 1781807103.7160232,
+    "ast_hash": "14b16e82ce58faed54f4ef7d4a0fd2bc",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observer/AuditLogObserver.java": {
+    "mtime": 1781807103.7170231,
+    "ast_hash": "f92d936aa5b3bc8ab6409cc65fe0b128",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observer/FailingObserver.java": {
+    "mtime": 1781807103.7180233,
+    "ast_hash": "907ef6e996c0eefca2dcdee56ab45999",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observer/HighValueOrderObserver.java": {
+    "mtime": 1781807103.7180233,
+    "ast_hash": "f3a7c00087c646069f98b3fbc6358964",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observer/InvoiceObserver.java": {
+    "mtime": 1781807103.7190232,
+    "ast_hash": "14944f840bae7a4cb8492f878d2c1993",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observer/LoyaltyPointsObserver.java": {
+    "mtime": 1781807103.7200272,
+    "ast_hash": "b3ab2504d75504cee4a8711cd216bea9",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-6/src/observer/OrderEventObserver.java": {
+    "mtime": 1781807103.7210228,
+    "ast_hash": "08a9860244f582beb92fe561d3f3c10a",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/app/Main.java": {
+    "mtime": 1781806534.2985122,
+    "ast_hash": "228084624460056d4ace0790c82f9532",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/bus/InMemoryQueuedEventBus.java": {
+    "mtime": 1781806534.3109431,
+    "ast_hash": "d0fd29ac87def45b27bf11c4fb66aaa2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/bus/QueuedEventBus.java": {
+    "mtime": 1781806534.318453,
+    "ast_hash": "2904fe755322a5d678d2a75cd2cf9662",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/event/DeadLetterEvent.java": {
+    "mtime": 1781806534.3316028,
+    "ast_hash": "7852bb6f7a60a59ea0375cfb4227d774",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/event/OrderEvent.java": {
+    "mtime": 1781806534.3390398,
+    "ast_hash": "9ef946f440555bc0288c856bb7228be4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/event/OrderEventType.java": {
+    "mtime": 1781806534.3464758,
+    "ast_hash": "25598c08909c32b5c04dfb9166f3130b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/event/OrderStatus.java": {
+    "mtime": 1781806534.3537686,
+    "ast_hash": "40182338911ee284c60de442bd4174b5",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/metrics/EventBusMetrics.java": {
+    "mtime": 1781806534.3661854,
+    "ast_hash": "e3bac97a8d6d989e20126a449bcdf272",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/AuditLogObserver.java": {
+    "mtime": 1781806534.379271,
+    "ast_hash": "f92d936aa5b3bc8ab6409cc65fe0b128",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/EventFilter.java": {
+    "mtime": 1781806534.38577,
+    "ast_hash": "0b7de3ac5f737bccd191e0ec5a35b0c0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/FailingObserver.java": {
+    "mtime": 1781806534.3937528,
+    "ast_hash": "39b5a2542818512f19e890144da9bc37",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/HighValueOrderObserver.java": {
+    "mtime": 1781806534.4018748,
+    "ast_hash": "10d1c4a80eda48337425d65c9388bbc8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/InvoiceObserver.java": {
+    "mtime": 1781806534.4091327,
+    "ast_hash": "14944f840bae7a4cb8492f878d2c1993",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/LoyaltyPointsObserver.java": {
+    "mtime": 1781806534.41657,
+    "ast_hash": "ed656c3043f171ba8eda987c1f769966",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/ObserverRegistration.java": {
+    "mtime": 1781806534.4239788,
+    "ast_hash": "52b03eb5528b5f8227a55230c445acdf",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/observer/OrderEventObserver.java": {
+    "mtime": 1781806534.430774,
+    "ast_hash": "69bd619f7219e5297709f67d73730039",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/result/DispatchResult.java": {
+    "mtime": 1781806534.4421694,
+    "ast_hash": "3fc65282edf2d9e2b7c00cca75a70877",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/result/DispatchStatus.java": {
+    "mtime": 1781806534.4492629,
+    "ast_hash": "e576b33236cf29ee3f8b885e9954eeb8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/src/result/ObserverDispatchResult.java": {
+    "mtime": 1781806534.456832,
+    "ast_hash": "436caace514b6027da87fa576a4f673c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-1/decorator_module_1_problem_statement.md": {
+    "mtime": 1781807103.5892434,
+    "ast_hash": "7f2d5329de392919db8c3e42efc2957b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-2/decorator_module_2_problem_statement.md": {
+    "mtime": 1781807103.5967786,
+    "ast_hash": "6a733c2273c020ab54c9dc0996d0a342",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-3/decorator_module_3_problem_statement.md": {
+    "mtime": 1781807103.6058185,
+    "ast_hash": "6977e1843f2b254b3399f3235cb4ff99",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-4/decorator_module_4_problem_statement.md": {
+    "mtime": 1781807103.615589,
+    "ast_hash": "7ac71628600adad9ff06058983ce0cd1",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-5/decorator_module_5_problem_statement.md": {
+    "mtime": 1781807103.5641296,
+    "ast_hash": "57dad9ee0cb2112d113aea6907c109b4",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-6/decorator_module_6_problem_statement.md": {
+    "mtime": 1781807103.6231053,
+    "ast_hash": "bcef676f99ceb006e2ea926cb22fa447",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/Decorator-Module-7/decorator_module_7_problem_statement.md": {
+    "mtime": 1781807103.6351607,
+    "ast_hash": "9b7f6a57b59fdc5eb24dfed81dc1b7e6",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-1/factory_module_1_problem_statement.md": {
+    "mtime": 1781806532.191559,
+    "ast_hash": "90eb4346e364f409d8e7389fe8b5f8de",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-2/factory_module_2_problem_statement.md": {
+    "mtime": 1781806532.269115,
+    "ast_hash": "de980f14c5e7aaa710a29d9d7074c65c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-3/factory_module_3_problem_statement.md": {
+    "mtime": 1781806532.3606403,
+    "ast_hash": "1d054c7f08c67b420b37d1a2d80eebb8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-1/observer_module_1_question.md": {
+    "mtime": 1781807103.661999,
+    "ast_hash": "7cfc4fb073329e50711b38114fbb463b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-2/observer_module_2_problem_statement.md": {
+    "mtime": 1781807103.6730528,
+    "ast_hash": "f76581986129c131183e182e1b0427b8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-3/observer_module_3_problem_statement.md": {
+    "mtime": 1781807103.6872547,
+    "ast_hash": "d58d47932870b769a517c1c722fa0d91",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-4/observer_module_4_problem_statement.md": {
+    "mtime": 1781807103.696768,
+    "ast_hash": "0ae654e4d3bff892ca3e7401438d5295",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-5/observer_module_5_problem_statement.md": {
+    "mtime": 1781807103.7409818,
+    "ast_hash": "457f43c541c05fda0f5d8fe5fdde27af",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Observer Design Pattern/Observer-Module-7/observer_module_7_problem_statement.md": {
+    "mtime": 1781806534.28111,
+    "ast_hash": "4a0985c95f611e200f96b49c3dbc0688",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Decorator Design Pattern/DecoratorPattern.pdf": {
+    "mtime": 1781807103.5872433,
+    "ast_hash": "1ba175547fe179b69876fa80aaddbe21",
+    "semantic_hash": ""
+  }
+}
