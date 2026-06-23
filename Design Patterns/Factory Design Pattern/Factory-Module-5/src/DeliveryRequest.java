@@ -41,13 +41,13 @@ public class DeliveryRequest {
             throw new IllegalArgumentException("deliveryType cannot be null");
         }
         if (distanceKm <= 0) {
-            throw new IllegalArgumentException("distanceKm must be grater than zero");
+            throw new IllegalArgumentException("distanceKm must be greater than zero");
         }
         if (weightKg <= 0) {
-            throw new IllegalArgumentException("weightKg must be grater than zero");
+            throw new IllegalArgumentException("weightKg must be greater than zero");
         }
-        if (packageValue <= 0) {
-            throw new IllegalArgumentException("packageValue must be grater than zero");
+        if (packageValue < 0) {
+            throw new IllegalArgumentException("packageValue cannot be negative");
         }
         this.requestId = requestId;
         this.orderId = orderId;

@@ -1,16 +1,16 @@
-# Graph Report - LLD  (2026-06-19)
+# Graph Report - LLD  (2026-06-23)
 
 ## Corpus Check
-- 257 files · ~66,810 words
+- 284 files · ~78,615 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 2718 nodes · 3103 edges · 350 communities (258 shown, 92 thin omitted)
-- Extraction: 97% EXTRACTED · 3% INFERRED · 0% AMBIGUOUS · INFERRED: 91 edges (avg confidence: 0.8)
+- 3095 nodes · 3564 edges · 401 communities (307 shown, 94 thin omitted)
+- Extraction: 96% EXTRACTED · 4% INFERRED · 0% AMBIGUOUS · INFERRED: 135 edges (avg confidence: 0.8)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `bb2d92a7`
+- Built from commit: `f707e2b9`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -345,7 +345,56 @@
 - [[_COMMUNITY_Community 346|Community 346]]
 - [[_COMMUNITY_Community 347|Community 347]]
 - [[_COMMUNITY_Community 348|Community 348]]
+- [[_COMMUNITY_Community 349|Community 349]]
+- [[_COMMUNITY_Community 350|Community 350]]
+- [[_COMMUNITY_Community 351|Community 351]]
 - [[_COMMUNITY_Community 352|Community 352]]
+- [[_COMMUNITY_Community 353|Community 353]]
+- [[_COMMUNITY_Community 354|Community 354]]
+- [[_COMMUNITY_Community 355|Community 355]]
+- [[_COMMUNITY_Community 356|Community 356]]
+- [[_COMMUNITY_Community 357|Community 357]]
+- [[_COMMUNITY_Community 358|Community 358]]
+- [[_COMMUNITY_Community 359|Community 359]]
+- [[_COMMUNITY_Community 360|Community 360]]
+- [[_COMMUNITY_Community 361|Community 361]]
+- [[_COMMUNITY_Community 362|Community 362]]
+- [[_COMMUNITY_Community 363|Community 363]]
+- [[_COMMUNITY_Community 364|Community 364]]
+- [[_COMMUNITY_Community 365|Community 365]]
+- [[_COMMUNITY_Community 366|Community 366]]
+- [[_COMMUNITY_Community 367|Community 367]]
+- [[_COMMUNITY_Community 368|Community 368]]
+- [[_COMMUNITY_Community 369|Community 369]]
+- [[_COMMUNITY_Community 370|Community 370]]
+- [[_COMMUNITY_Community 371|Community 371]]
+- [[_COMMUNITY_Community 372|Community 372]]
+- [[_COMMUNITY_Community 373|Community 373]]
+- [[_COMMUNITY_Community 374|Community 374]]
+- [[_COMMUNITY_Community 375|Community 375]]
+- [[_COMMUNITY_Community 376|Community 376]]
+- [[_COMMUNITY_Community 377|Community 377]]
+- [[_COMMUNITY_Community 378|Community 378]]
+- [[_COMMUNITY_Community 379|Community 379]]
+- [[_COMMUNITY_Community 380|Community 380]]
+- [[_COMMUNITY_Community 381|Community 381]]
+- [[_COMMUNITY_Community 382|Community 382]]
+- [[_COMMUNITY_Community 383|Community 383]]
+- [[_COMMUNITY_Community 384|Community 384]]
+- [[_COMMUNITY_Community 385|Community 385]]
+- [[_COMMUNITY_Community 386|Community 386]]
+- [[_COMMUNITY_Community 387|Community 387]]
+- [[_COMMUNITY_Community 388|Community 388]]
+- [[_COMMUNITY_Community 389|Community 389]]
+- [[_COMMUNITY_Community 390|Community 390]]
+- [[_COMMUNITY_Community 391|Community 391]]
+- [[_COMMUNITY_Community 392|Community 392]]
+- [[_COMMUNITY_Community 393|Community 393]]
+- [[_COMMUNITY_Community 394|Community 394]]
+- [[_COMMUNITY_Community 395|Community 395]]
+- [[_COMMUNITY_Community 396|Community 396]]
+- [[_COMMUNITY_Community 397|Community 397]]
+- [[_COMMUNITY_Community 398|Community 398]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `Observer Design Pattern Practice — Module 7` - 47 edges
@@ -357,7 +406,7 @@
 7. `Decorator Design Pattern Practice — Module 1` - 24 edges
 8. `Observer Design Pattern Practice — Module 3` - 23 edges
 9. `Observer Design Pattern Practice — Module 5` - 22 edges
-10. `EventBusMetrics` - 15 edges
+10. `DeliveryRequest` - 15 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `CheeseDecorator` --inherits--> `PizzaDecorator`  [EXTRACTED]
@@ -374,19 +423,19 @@
 ## Import Cycles
 - None detected.
 
-## Communities (350 total, 92 thin omitted)
+## Communities (401 total, 94 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.18
-Nodes (11): InMemoryQueuedEventBus, DeadLetterEvent, DispatchResult, EventBusMetrics, List, ObserverRegistration, OrderEvent, OrderEventObserver (+3 more)
+Cohesion: 0.22
+Nodes (9): InMemoryQueuedEventBus, DeadLetterEvent, EventBusMetrics, List, ObserverRegistration, OrderEvent, OrderEventObserver, OrderEventType (+1 more)
 
 ### Community 1 - "Community 1"
 Cohesion: 0.08
 Nodes (15): Override, PaymentMode, PaymentRequest, Override, PaymentMode, PaymentRequest, PaymentRequest, String (+7 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.07
-Nodes (19): Override, RefundMode, RefundRequest, Override, RefundMode, RefundRequest, Override, RefundMode (+11 more)
+Cohesion: 0.33
+Nodes (4): Override, RefundMode, RefundRequest, BankTransferRefundStrategy
 
 ### Community 3 - "Community 3"
 Cohesion: 0.06
@@ -513,8 +562,8 @@ Cohesion: 0.12
 Nodes (12): DecoratorType, HttpClient, List, HttpClientMetrics, String, HttpClientMetrics, HttpResponse, Main (+4 more)
 
 ### Community 45 - "Community 45"
-Cohesion: 0.08
-Nodes (15): Override, String, Main, String, Override, String, Override, String (+7 more)
+Cohesion: 0.05
+Nodes (24): Channel, YoutubeChannel, Override, String, Subscriber, Override, String, Main (+16 more)
 
 ### Community 46 - "Community 46"
 Cohesion: 0.10
@@ -545,8 +594,8 @@ Cohesion: 0.07
 Nodes (28): 11. Why `EventFilter` Is Needed, 12. Required Observer Registration Class, 13. Meaning of `ObserverRegistration`, 19. Required Event Bus Interface, 1. Problem Statement, 23. Required Behavior: `unsubscribe()`, 24. Required Behavior: `publish()`, 25. Required Behavior: `processNext()` (+20 more)
 
 ### Community 53 - "Community 53"
-Cohesion: 0.15
-Nodes (9): Channel, YoutubeChannel, Override, String, Subscriber, YoutubeChannel, Override, String (+1 more)
+Cohesion: 0.05
+Nodes (31): ReportRequest, Override, ReportGenerationResult, ReportRequest, String, Override, ReportGenerationResult, ReportRequest (+23 more)
 
 ### Community 54 - "Community 54"
 Cohesion: 0.15
@@ -573,8 +622,8 @@ Cohesion: 0.12
 Nodes (15): 15. Class 8 — `Main`, 16. Required Second Test Case, 17. What Actually Happens Internally, 19. Important Learning: Order Matters, 1. Problem Statement, 22. What This Module Tests, 23. Scoring Rubric, 24. Key Learning (+7 more)
 
 ### Community 61 - "Community 61"
-Cohesion: 0.12
-Nodes (8): Main, String, NotificationSender, Override, String, NotificationMetrics, MetricsNotificationDecorator, NotificationMetrics
+Cohesion: 0.18
+Nodes (5): Main, String, Override, String, NotificationMetrics
 
 ### Community 62 - "Community 62"
 Cohesion: 0.19
@@ -617,8 +666,8 @@ Cohesion: 0.17
 Nodes (11): 12. Runtime Chain Example, 13. Required Test Cases, 1. Problem Introduction, 21. Scoring Rubric, 22. Final Objective, 23. Final Mental Model, 3. Why This Problem Matters, 5. Core Problem Statement (+3 more)
 
 ### Community 72 - "Community 72"
-Cohesion: 0.18
-Nodes (7): Override, String, Override, String, NotificationSender, BasicNotificationSender, NotificationSenderDecorator
+Cohesion: 0.33
+Nodes (4): Override, String, NotificationSender, NotificationSenderDecorator
 
 ### Community 73 - "Community 73"
 Cohesion: 0.26
@@ -633,8 +682,8 @@ Cohesion: 0.31
 Nodes (3): Map, HttpRequest, String
 
 ### Community 77 - "Community 77"
-Cohesion: 0.20
-Nodes (6): Override, String, RefundRequest, String, EmailNotificationSender, RefundRequestValidator
+Cohesion: 0.40
+Nodes (3): RefundRequest, String, RefundRequestValidator
 
 ### Community 78 - "Community 78"
 Cohesion: 0.27
@@ -793,8 +842,8 @@ Cohesion: 0.29
 Nodes (5): SmsNotificationObserver, OrderEvent, Override, String, OrderEventObserver
 
 ### Community 121 - "Community 121"
-Cohesion: 0.39
-Nodes (4): HighValueOrderObserver, OrderEvent, Override, String
+Cohesion: 0.33
+Nodes (5): HighValueOrderObserver, OrderEvent, Override, String, EventFilter
 
 ### Community 122 - "Community 122"
 Cohesion: 0.29
@@ -1324,33 +1373,221 @@ Nodes (3): 4. Key Difference from Module 6, Module 6, Module 7
 Cohesion: 0.27
 Nodes (4): List, ObserverDispatchResult, OrderEvent, DispatchResult
 
+### Community 346 - "Community 346"
+Cohesion: 0.16
+Nodes (3): String, DispatchResult, EventBusMetrics
+
 ### Community 347 - "Community 347"
 Cohesion: 0.18
 Nodes (5): String, LocalDateTime, OrderEvent, String, DeadLetterEvent
+
+### Community 349 - "Community 349"
+Cohesion: 0.09
+Nodes (13): List, ReportFormat, ReportGenerationResult, ReportRow, Main, String, ReportGenerationResult, ReportRequest (+5 more)
+
+### Community 350 - "Community 350"
+Cohesion: 0.11
+Nodes (9): DeliveryType, String, DeliveryAssignmentResult, DeliveryRequest, DeliveryAssignmentResult, Main, String, DeliveryAssignmentResult (+1 more)
+
+### Community 351 - "Community 351"
+Cohesion: 0.08
+Nodes (25): 10. Class 1: DeliveryType, 11. Class 2: DeliveryRequest, 12. Class 3: DeliveryAssignmentResult, 13. Class 4: DeliveryPartner, 14. Class 5: DeliveryRequestValidator, 16. Class 6: DeliveryCostCalculator, 19. Class 12: DeliveryAssignmentService, 1. Module Overview (+17 more)
 
 ### Community 352 - "Community 352"
 Cohesion: 0.18
 Nodes (10): Decorator Design Pattern, Factory Design Pattern, How to Run an Example, LLD Design Patterns, Modules, Observer Design Pattern, Project Structure, Repository Notes (+2 more)
 
+### Community 353 - "Community 353"
+Cohesion: 0.13
+Nodes (14): 1. Module Overview, 25. Correct Execution Flow, 2. Why This Module Exists, 31. Scoring Rubric, 32. Ideal Final Code Structure, 33. Difference Between Module 3 and Module 4, 34. Final Learning Goal, 3. Core Factory Pattern Idea (+6 more)
+
+### Community 354 - "Community 354"
+Cohesion: 0.23
+Nodes (4): DeliveryType, LocalDateTime, String, DeliveryRequest
+
+### Community 355 - "Community 355"
+Cohesion: 0.24
+Nodes (4): DeliveryPartner, DeliveryRequest, String, LogisticsPartnerFactory
+
+### Community 356 - "Community 356"
+Cohesion: 0.18
+Nodes (11): 30. Common Mistakes, Mistake 10: Unnecessary default in enum switch, Mistake 1: Creating generators directly in Main or service, Mistake 2: Returning Object from factory, Mistake 3: Putting generation logic inside factory, Mistake 4: Literal newline issue, Mistake 5: Excel header and rows mismatch, Mistake 6: Using `<th>` for HTML data (+3 more)
+
+### Community 357 - "Community 357"
+Cohesion: 0.28
+Nodes (6): DeliveryPartner, DeliveryAssignmentResult, DeliveryRequest, Override, String, InternationalDeliveryPartner
+
+### Community 358 - "Community 358"
+Cohesion: 0.33
+Nodes (4): Override, RefundMode, RefundRequest, OriginalSourceRefundStrategy
+
+### Community 360 - "Community 360"
+Cohesion: 0.32
+Nodes (5): DeliveryAssignmentResult, DeliveryRequest, Override, String, ExpressDeliveryPartner
+
+### Community 361 - "Community 361"
+Cohesion: 0.32
+Nodes (5): DeliveryAssignmentResult, DeliveryRequest, Override, String, SameDayDeliveryPartner
+
+### Community 362 - "Community 362"
+Cohesion: 0.32
+Nodes (5): DeliveryAssignmentResult, DeliveryRequest, Override, String, StandardDeliveryPartner
+
+### Community 363 - "Community 363"
+Cohesion: 0.29
+Nodes (5): Override, RefundMode, RefundRequest, RefundStrategy, ManualAdjustmentRefundStrategy
+
+### Community 365 - "Community 365"
+Cohesion: 0.25
+Nodes (8): 18. Class 11: LogisticsPartnerFactory, Business Rules, Express Delivery, Important Factory Rule, International Delivery, Same-Day Delivery, Standard Delivery, Suggested Implementation
+
+### Community 366 - "Community 366"
+Cohesion: 0.29
+Nodes (4): ReportGenerationResult, ReportRequest, String, ReportGenerator
+
+### Community 367 - "Community 367"
+Cohesion: 0.29
+Nodes (4): DeliveryAssignmentResult, DeliveryRequest, String, DeliveryPartner
+
+### Community 368 - "Community 368"
+Cohesion: 0.33
+Nodes (4): Override, RefundMode, RefundRequest, WalletRefundStrategy
+
+### Community 369 - "Community 369"
+Cohesion: 0.33
+Nodes (3): ReportFormat, ReportGenerator, ReportGeneratorFactory
+
+### Community 370 - "Community 370"
+Cohesion: 0.40
+Nodes (3): Override, String, BasicNotificationSender
+
+### Community 371 - "Community 371"
+Cohesion: 0.40
+Nodes (3): NotificationSender, NotificationMetrics, MetricsNotificationDecorator
+
+### Community 372 - "Community 372"
+Cohesion: 0.40
+Nodes (3): Override, String, EmailNotificationSender
+
+### Community 373 - "Community 373"
+Cohesion: 0.40
+Nodes (5): 11. Class 2: `ReportRow`, Purpose, Required Code, Required Fields, Validation Notes
+
+### Community 374 - "Community 374"
+Cohesion: 0.40
+Nodes (5): 12. Class 3: `ReportRequest`, Important Immutability Point, Purpose, Required Code, Required Fields
+
+### Community 375 - "Community 375"
+Cohesion: 0.40
+Nodes (5): 13. Class 4: `ReportGenerationResult`, Purpose, Required Code, Required Fields, Responsibility
+
+### Community 376 - "Community 376"
+Cohesion: 0.40
+Nodes (5): 17. Class 8: `CsvReportGenerator`, Common Mistake, Expected CSV Content, Purpose, Required Code
+
+### Community 377 - "Community 377"
+Cohesion: 0.40
+Nodes (5): 20. Class 11: `ReportGeneratorFactory`, Important Notes, Mapping, Purpose, Required Code
+
+### Community 378 - "Community 378"
+Cohesion: 0.40
+Nodes (5): 22. Class 13: `ReportExportService`, Important Rule, Purpose, Required Code, Responsibility
+
+### Community 379 - "Community 379"
+Cohesion: 0.40
+Nodes (5): 24. Expected Output Style, CSV Output Example, Excel Output Example, HTML Output Example, PDF Output Example
+
+### Community 380 - "Community 380"
+Cohesion: 0.40
+Nodes (5): 29. Important Rules, Rule 1: Factory creates objects only, Rule 2: Generators generate reports, Rule 3: Service coordinates flow, Rule 4: Output must differ by format
+
+### Community 381 - "Community 381"
+Cohesion: 0.40
+Nodes (5): Backend Theme, Difficulty Level, Factory Design Pattern Practice — Module 4, Pattern Focus, Report Generator Factory
+
+### Community 382 - "Community 382"
+Cohesion: 0.40
+Nodes (5): 17. Partner Classes, ExpressDeliveryPartner, InternationalDeliveryPartner, SameDayDeliveryPartner, StandardDeliveryPartner
+
+### Community 383 - "Community 383"
+Cohesion: 0.40
+Nodes (5): 22. Cost Calculation Examples, Express Delivery, International Delivery, Same-Day Delivery, Standard Delivery
+
+### Community 384 - "Community 384"
+Cohesion: 0.40
+Nodes (5): Backend Theme, Difficulty Level, Factory Design Pattern Practice — Module 5, Logistics Partner Factory, Pattern Focus
+
+### Community 385 - "Community 385"
+Cohesion: 0.50
+Nodes (4): 10. Class 1: `ReportFormat`, Purpose, Required Code, Why enum is better than String
+
+### Community 386 - "Community 386"
+Cohesion: 0.50
+Nodes (4): 14. Class 5: `ReportGenerator`, Purpose, Required Code, Why interface is needed
+
+### Community 387 - "Community 387"
+Cohesion: 0.50
+Nodes (4): 15. Class 6: `AmountUtil`, Purpose, Required Code, Responsibility
+
+### Community 388 - "Community 388"
+Cohesion: 0.50
+Nodes (4): 16. Class 7: `PdfReportGenerator`, Important Newline Rule, Purpose, Required Code
+
+### Community 389 - "Community 389"
+Cohesion: 0.50
+Nodes (4): 18. Class 9: `ExcelReportGenerator`, Important Excel Rules, Purpose, Required Code
+
+### Community 390 - "Community 390"
+Cohesion: 0.50
+Nodes (4): 19. Class 10: `HtmlReportGenerator`, Important HTML Rules, Purpose, Required Code
+
+### Community 391 - "Community 391"
+Cohesion: 0.50
+Nodes (4): 21. Class 12: `ReportRequestValidator`, Purpose, Required Code, Responsibility
+
+### Community 392 - "Community 392"
+Cohesion: 0.50
+Nodes (4): 28.1 Cleaner Service Code, 28.2 Centralized Object Creation, 28.3 Easy to Add New Formats, 28. Design Benefits
+
+### Community 393 - "Community 393"
+Cohesion: 0.67
+Nodes (3): 23. Class 14: `Main`, Purpose, Required Code
+
+### Community 394 - "Community 394"
+Cohesion: 0.67
+Nodes (3): 26. What Makes This Factory Pattern?, With Factory, Without Factory
+
+### Community 395 - "Community 395"
+Cohesion: 0.67
+Nodes (3): 27. What Problem This Module Solves, After Factory, Before Factory
+
+### Community 396 - "Community 396"
+Cohesion: 0.67
+Nodes (3): 9. Class Design Overview, High-Level Structure, Runtime Flow
+
+### Community 397 - "Community 397"
+Cohesion: 0.67
+Nodes (3): 15. Validation vs Business Rules, Basic request validation, Business-rule validation
+
 ## Knowledge Gaps
-- **1124 isolated node(s):** `Coffee`, `String`, `String`, `String`, `Coffee` (+1119 more)
+- **1306 isolated node(s):** `Coffee`, `String`, `String`, `String`, `Coffee` (+1301 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **92 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **94 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **Why does `InMemoryQueuedEventBus` connect `Community 0` to `Community 41`, `Community 346`, `Community 347`?**
-  _High betweenness centrality (0.016) - this node is a cross-community bridge._
+  _High betweenness centrality (0.018) - this node is a cross-community bridge._
 - **Why does `QueuedEventBus` connect `Community 41` to `Community 0`, `Community 348`?**
+  _High betweenness centrality (0.016) - this node is a cross-community bridge._
+- **Why does `DeliveryRequest` connect `Community 354` to `Community 355`, `Community 359`?**
   _High betweenness centrality (0.015) - this node is a cross-community bridge._
-- **Why does `AuthHeaderHttpClientDecorator` connect `Community 92` to `Community 93`?**
-  _High betweenness centrality (0.009) - this node is a cross-community bridge._
 - **What connects `Coffee`, `String`, `String` to the rest of the system?**
-  _1124 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _1306 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.0784313725490196 - nodes in this community are weakly interconnected._
-- **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.07317073170731707 - nodes in this community are weakly interconnected._
 - **Should `Community 3` be split into smaller, more focused modules?**
   _Cohesion score 0.059800664451827246 - nodes in this community are weakly interconnected._
+- **Should `Community 4` be split into smaller, more focused modules?**
+  _Cohesion score 0.04878048780487805 - nodes in this community are weakly interconnected._

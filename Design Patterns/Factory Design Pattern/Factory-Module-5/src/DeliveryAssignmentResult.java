@@ -14,8 +14,8 @@ public class DeliveryAssignmentResult {
     public DeliveryAssignmentResult(String requestId, String orderId, String customerId, DeliveryType deliveryType,
                                     String partnerName, boolean assigned, String message, int estimatedDeliveryDays,
                                     double estimatedCost, String trackingId) {
-        this.orderId = orderId;
         this.requestId = requestId;
+        this.orderId = orderId;
         this.customerId = customerId;
         this.deliveryType = deliveryType;
         this.partnerName = partnerName;
