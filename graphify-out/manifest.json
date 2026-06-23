@@ -1288,5 +1288,105 @@
     "mtime": 1781818708.2495196,
     "ast_hash": "85a31680489b4447cba16b990989ba55",
     "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/AmountUtil.java": {
+    "mtime": 1782182206.1532674,
+    "ast_hash": "6628356f81198d7e1700fb517aeac35c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/CsvReportGenerator.java": {
+    "mtime": 1782182206.1542673,
+    "ast_hash": "38b68155702c3012a320e613e748a85c",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ExcelReportGenerator.java": {
+    "mtime": 1782182206.1542673,
+    "ast_hash": "8edd816e72281d3799c626d8512a2234",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/HtmlReportGenerator.java": {
+    "mtime": 1782182206.1562245,
+    "ast_hash": "1eae1b7a083361ad0d4cb3e6c55a20df",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/Main.java": {
+    "mtime": 1782182206.1562245,
+    "ast_hash": "510e199a947436bdc10622a62e750bdb",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/PdfReportGenerator.java": {
+    "mtime": 1782182206.1572428,
+    "ast_hash": "1e5170728c132ca344441308d1da4361",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportExportService.java": {
+    "mtime": 1782182206.1582363,
+    "ast_hash": "32f7757d498feb6121b0694cf35026c3",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportFormat.java": {
+    "mtime": 1782182206.159262,
+    "ast_hash": "2588574ba2ad9a88be40f5a34582ea9f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportGenerationResult.java": {
+    "mtime": 1782182206.159262,
+    "ast_hash": "f666f67d4cbef242d3565d5076923625",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportGenerator.java": {
+    "mtime": 1782182206.1602385,
+    "ast_hash": "9499d49d6ae8fd6e3f091e6865aa7eb7",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportGeneratorFactory.java": {
+    "mtime": 1782182206.1612432,
+    "ast_hash": "1f07074e75a308eb4ca6bc71c21919d0",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportRequest.java": {
+    "mtime": 1782182206.1612432,
+    "ast_hash": "158c2f7a0d346ba56c39f0731ef77c45",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/src/ReportRow.java": {
+    "mtime": 1782182206.1622424,
+    "ast_hash": "51f2f2cd8fec42905f47a6c3c1c0b969",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-5/src/DeliveryAssignmentResult.java": {
+    "mtime": 1782182206.1642375,
+    "ast_hash": "f04f9de00f0f92dd164a52b19dcd0910",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-5/src/DeliveryCostCalculator.java": {
+    "mtime": 1782182206.1657476,
+    "ast_hash": "f8ba76b7bc18b2dabd5476fcf1b1ddf8",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-5/src/DeliveryPartner.java": {
+    "mtime": 1782182206.1667674,
+    "ast_hash": "73f9be5c33170ec9e0c87edabba0ee8b",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-5/src/DeliveryRequest.java": {
+    "mtime": 1782182206.1667674,
+    "ast_hash": "dbaa77906b035b01ad888c053d5aead2",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-5/src/DeliveryType.java": {
+    "mtime": 1782182206.1677613,
+    "ast_hash": "7fec717d84819054797439ce4072ba8f",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-5/src/Main.java": {
+    "mtime": 1782182206.169269,
+    "ast_hash": "5bc08964b465dafdde1fbf4861100e61",
+    "semantic_hash": ""
+  },
+  "Design Patterns/Factory Design Pattern/Factory-Module-4/factory_module_4_problem_statement.md": {
+    "mtime": 1782182206.1522691,
+    "ast_hash": "98528d085f9bc32d6d82354b54f2b869",
+    "semantic_hash": ""
   }
 }
