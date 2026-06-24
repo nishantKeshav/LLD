@@ -5,6 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="185c8e27-dbeb-480b-be9b-5bd9e38282c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/Absolute-Factory-Module-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/DeliveryStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/DeliveryTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/DeliveryTrackingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/DeliveryTrackingResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/EmailDeliveryTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/EmailNotificationProviderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/EmailNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/EmailRecipientValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/EmailRetryPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/EmailTemplateRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationDispatchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationDispatchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationProviderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationProviderFactorySelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/NotificationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/RecipientDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/RecipientValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/RenderedNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/RetryDecision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/RetryPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SendResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SmsDeliveryTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SmsNotificationProviderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SmsNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SmsRecipientValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SmsRetryPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/SmsTemplateRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/TemplateRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/WhatsAppDeliveryTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/WhatsAppNotificationProviderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/WhatsAppNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/WhatsAppRetryPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/WhatsAppTemplateRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/WhatsappRecipientValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +54,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="621" />
+    <option name="cachedIndexableFilesCount" value="663" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,61 +72,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="3.0010068820261086E-112" />
+      <entry key="S5" value="2.4598396440615457E-45" />
+      <entry key="S10" value="4.9596770500321343E-23" />
+      <entry key="S30" value="3.674101355242023E-8" />
+      <entry key="S60" value="1.916794552195783E-4" />
+      <entry key="M2" value="0.01384489131773459" />
+      <entry key="M5" value="0.1853749497255612" />
+      <entry key="M10" value="0.8307566254072353" />
+      <entry key="M15" value="2.545584045807252" />
+      <entry key="M30" value="11.249409843696933" />
+      <entry key="H1" value="25.999171738099047" />
+      <entry key="H2" value="40.25168405756694" />
+      <entry key="H4" value="50.29104185942792" />
+      <entry key="D1" value="60.66725151361718" />
+      <entry key="W1" value="62.661064693985644" />
+    </decayedCancelled>
+    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
       <entry key="S5" value="1.0" />
       <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S30" value="1.0000022894547813" />
+      <entry key="S60" value="1.0016967689498955" />
+      <entry key="M2" value="1.0527509237740402" />
+      <entry key="M5" value="1.4602730479201442" />
+      <entry key="M10" value="2.37667272158626" />
+      <entry key="M15" value="4.204004154684138" />
+      <entry key="M30" value="12.91108466235224" />
+      <entry key="H1" value="27.638523103374997" />
+      <entry key="H2" value="41.96841741428097" />
+      <entry key="H4" value="52.111622362012234" />
+      <entry key="D1" value="62.63069869211919" />
+      <entry key="W1" value="64.65565851594181" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.022561393680039" />
-      <entry key="MS500" value="0.46846072343621276" />
-      <entry key="S2" value="0.8273100425752846" />
-      <entry key="S5" value="0.9269734991758295" />
-      <entry key="S10" value="0.9627946298021347" />
-      <entry key="S30" value="0.987441145385893" />
-      <entry key="S60" value="0.9937007323062075" />
-      <entry key="M2" value="0.9968453903721517" />
-      <entry key="M5" value="0.9987369599481323" />
-      <entry key="M10" value="0.9993682804392644" />
-      <entry key="M15" value="0.9995788092726553" />
-      <entry key="M30" value="0.9997893824564528" />
-      <entry key="H1" value="0.9998946856826737" />
-      <entry key="H2" value="0.9999473414548756" />
-      <entry key="H4" value="0.9999736703808134" />
-      <entry key="D1" value="0.9999956116819925" />
-      <entry key="W1" value="0.9999993730962484" />
+      <entry key="MS100" value="2.6716154815936016E-4" />
+      <entry key="MS500" value="0.19291002188236683" />
+      <entry key="S2" value="0.6627331545344483" />
+      <entry key="S5" value="0.8482726779724366" />
+      <entry key="S10" value="0.921017197435768" />
+      <entry key="S30" value="0.9729494266023175" />
+      <entry key="S60" value="0.9882496002165098" />
+      <entry key="M2" value="1.0593515513342495" />
+      <entry key="M5" value="1.6411306493368252" />
+      <entry key="M10" value="3.202794619498841" />
+      <entry key="M15" value="6.742717378590805" />
+      <entry key="M30" value="24.14753408218592" />
+      <entry key="H1" value="53.62306481424854" />
+      <entry key="H2" value="82.2088197832114" />
+      <entry key="H4" value="102.3956207497016" />
+      <entry key="D1" value="123.29653407366531" />
+      <entry key="W1" value="127.31651424773713" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -86,12 +134,17 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3FKLJUTfKPuxCcamSlBLFSnPX0Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -105,13 +158,13 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Factory Design Pattern/Factory-Module-7",
+    "last_opened_file_path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Factory Design Pattern/Factory-Module-7/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -120,14 +173,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Absolute Factory Design Pattern\Absolute-Factory-Module-2\src" />
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Absolute Factory Design Pattern\Absolute-Factory-Module-1" />
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Absolute Factory Design Pattern\Absolute-Factory-Module-1\src" />
       <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-7" />
       <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-7\src" />
-      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-6" />
-      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-6\src" />
-      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-5" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Absolute-Factory-Module-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Absolute-Factory-Module-1" />
@@ -137,6 +197,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -174,6 +235,11 @@
           <url>file://$PROJECT_DIR$/Design Patterns/Factory Design Pattern/Factory-Module-5/src/Main.java</url>
           <line>115</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

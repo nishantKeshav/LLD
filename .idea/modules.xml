@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute Factory Design Pattern.iml" filepath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute Factory Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-1/Absolute-Factory-Module-1.iml" filepath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-1/Absolute-Factory-Module-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/Absolute-Factory-Module-2.iml" filepath="$PROJECT_DIR$/Design Patterns/Absolute Factory Design Pattern/Absolute-Factory-Module-2/Absolute-Factory-Module-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/Builder Design Pattern/Builder Design Pattern.iml" filepath="$PROJECT_DIR$/Design Patterns/Builder Design Pattern/Builder Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/Builder Design Pattern/Builder-Module-1/Builder-Module-1.iml" filepath="$PROJECT_DIR$/Design Patterns/Builder Design Pattern/Builder-Module-1/Builder-Module-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator Design Pattern.iml" filepath="$PROJECT_DIR$/Design Patterns/Decorator Design Pattern/Decorator Design Pattern.iml" />
