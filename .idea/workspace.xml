@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="327" />
+    <option name="cachedIndexableFilesCount" value="621" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,18 +98,20 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "augment.onboarding.workspace.first.indexed.C:/Users/Dell/Desktop/LLD/LLD": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Factory Design Pattern/Factory-Module-5",
+    "last_opened_file_path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Factory Design Pattern/Factory-Module-7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Factory Design Pattern/Factory-Module-5/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Dell/Desktop/LLD/LLD/Design Patterns/Factory Design Pattern/Factory-Module-7/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -118,8 +120,26 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-7" />
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-7\src" />
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-6" />
+      <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-6\src" />
       <recent name="C:\Users\Dell\Desktop\LLD\LLD\Design Patterns\Factory Design Pattern\Factory-Module-5" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Absolute-Factory-Module-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
